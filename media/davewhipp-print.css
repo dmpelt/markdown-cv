@@ -135,7 +135,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #000;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -177,8 +177,10 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+/* 	font-style: normal;
+	color: #2d4e5e */
+	font-style: italic;
+
 }
 
 strong {
