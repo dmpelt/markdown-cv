@@ -105,6 +105,19 @@ Swiss Light Source, Paul Sherrer Institute, Villigen, Switzerland. Two weeks.
 `05/2013`
 European Synchrotron Radiation Facility, Grenoble, France. Two weeks.
 
+### Teaching
+
+Guest lecturer for the 2015 Parallel Algorithms course, taught by prof. dr. Rob H. Bisseling at Utrecht University.
+
+Teacher at the ASTRA toolbox session during "Workshop on Experimental and Computational Tomography" (May 2015, Grenoble, France).
+
+Teacher at the "Training school on using the ASTRA toolbox for X-ray tomography" (March 2015, Antwerp, Belgium).
+
+Teacher at the "Unleashing the ASTRA Tomography Toolbox" workshop (April 2014, Antwerp, Belgium).
+
+## Publication list
+
+
 
 <!-- ### Footer
 
