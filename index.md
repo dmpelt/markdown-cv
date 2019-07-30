@@ -5,7 +5,7 @@ title: Daniël M. Pelt's CV
 # Daniël M. Pelt
 
 <div id="webaddress">
-<a href="d.m.pelt@cwi.nl">d.m.pelt@cwi.nl</a>
+<a href="mailto:d.m.pelt@cwi.nl">d.m.pelt@cwi.nl</a>
 </div>
 
 ## Employment
