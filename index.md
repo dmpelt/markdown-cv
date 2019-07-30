@@ -1,54 +1,58 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniël M. Pelt's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniël M. Pelt
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="d.m.pelt@cwi.nl">d.m.pelt@cwi.nl</a>
 </div>
 
+## Employment
 
-## Currently
+`2017 - now`
+__Centrum Wiskunde & Informatica__
 
-Standing on the shoulders of giants
+- Postdoctoral Researcher
 
-### Specialized in
+`2016 - 2017`
+__Lawrence Berkeley National Laboratory__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Postdoctoral Fellow
 
+`2012 - 2016`
+__Centrum Wiskunde & Informatica__
 
-### Research interests
+- Ph.D. Student
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2010 - 2011`
+__VU University__
 
+- Scientific Programmer
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016`
+__Ph. D.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Leiden University
+- Thesis: Filter-based reconstruction methods for tomography
+- Advisor: prof. dr. K. J. Batenburg
 
-- Sizar
+`2010`
+__Master Scientific Compution (cum laude)__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Utrecht University
 
-- Fellow
+`2008`
+__Bachelor Physics and Astronomy__
 
+- Utrecht University
 
+`2004`
+__Pre-university secondary education__
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+- Christelijk Gymnasium Utrecht
 
 
 ## Publications
@@ -86,6 +90,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2019 -->
 
 
