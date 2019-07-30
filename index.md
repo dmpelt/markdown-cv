@@ -96,6 +96,9 @@ Nature Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Tr
 
 ### Working visits
 
+`01/2018`
+Swiss Light Source, Paul Sherrer Institute, Villigen, Switzerland. One week.
+
 `06/2015`
 Advanced Photon Source, Argonne National Laboratory, Argonne, Illinois, USA. Five weeks.
 
