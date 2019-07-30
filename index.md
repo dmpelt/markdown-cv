@@ -78,7 +78,7 @@ __Pelt, D. M.__, & Batenburg, K. J. (2013). Fast tomographic reconstruction from
       
 ## Academic activities
 
-### Scholarships and prizes
+### Scholarships/prizes
 
 EU ATTRACT 2019 (co-I), 100k euro
 
