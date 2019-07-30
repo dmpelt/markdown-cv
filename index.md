@@ -62,7 +62,7 @@ __Pre-university secondary education__
 - Christelijk Gymnasium Utrecht
 - Utrecht, The Netherlands
 
-## Selected Publications
+## Selected publications
 
 __Pelt, D. M.__, & Sethian, J. A. (2018). A mixed-scale dense convolutional neural network for image analysis. *Proceedings of the National Academy of Sciences, 115*(2), 254-259.
 
@@ -76,33 +76,31 @@ __Pelt, D. M.__, & Bisseling, R. H. (2014). A medium-grain method for fast 2D bi
 
 __Pelt, D. M.__, & Batenburg, K. J. (2013). Fast tomographic reconstruction from limited data using artificial neural networks. *IEEE Transactions on Image Processing, 22*(12), 5238--5251.
       
-### Journals
+## Academic activities
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Scholarships and prizes
 
-`1669`
-Lectiones opticæ.
+EU ATTRACT 2019 (co-I), 100k euro
 
-etc. etc. etc.
+NWO Veni Grant 2018 (PI), 250k euro
 
-### Patents
+IOP Outstanding Reviewer Award 2017
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Research Aide Appointment (PI), Argonne National Laboratory, 4800 dollar
 
+Short Term Scientific Mission (PI), EU COST Action MP-1207, 1100 euro
 
-## Occupation
+### Ad hoc reviewer
 
-`1600`
-__Royal Mint__, London
+Nature Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Transactions on Compuational Imaging, Journal of Synchrotron Radiation, Measurement Science and Technology, ...
 
-- Warden
-- Minted coins
+### Working visits
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+06/2015, Advanced Photon Source, Argonne National Laboratory, Argonne, Illinois, USA. Five weeks.
 
+03/2014, Swiss Light Source, Paul Sherrer Institute, Villigen, Switzerland. Two weeks.
+
+05/2013, European Synchrotron Radiation Facility, Grenoble, France. Two weeks.
 
 
 <!-- ### Footer
