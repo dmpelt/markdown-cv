@@ -11,24 +11,24 @@ title: Daniël M. Pelt's CV
 ## Employment
 
 `2017 - now`
-__Centrum Wiskunde & Informatica__
+__Postdoctoral Researcher__
 
-- Postdoctoral Researcher
-
+- Centrum Wiskunde & Informatica
+ 
 `2016 - 2017`
-__Lawrence Berkeley National Laboratory__
+__Postdoctoral Fellow__
 
-- Postdoctoral Fellow
+- Lawrence Berkeley National Laboratory__
 
 `2012 - 2016`
-__Centrum Wiskunde & Informatica__
+__Ph.D. Student__
 
-- Ph.D. Student
+- Centrum Wiskunde & Informatica
 
 `2010 - 2011`
-__VU University__
+__Scientific Programmer__
 
-- Scientific Programmer
+- VU University
 
 ## Education
 
@@ -55,10 +55,12 @@ __Pre-university secondary education__
 - Christelijk Gymnasium Utrecht
 
 
-## Publications
+## Selected Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__Pelt, D. M.__, & Sethian, J. A. (2018). A mixed-scale dense convolutional neural network for image analysis. *Proceedings of the National Academy of Sciences, 115*(2), 254-259.
 
+__Pelt, D. M.__, Andrade, V. (2017). Improved tomographic reconstruction of large-scale real-world data by filter optimization. *Advanced Structural and Chemical Imaging, 2*(1), 17.
+      
 ### Journals
 
 `1669`
