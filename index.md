@@ -72,7 +72,7 @@ __Pelt, D. M.__, Gürsoy, D., Palenstijn, W. J., Sijbers, J., De Carlo, F., & Ba
       
 Bladt, E., __Pelt, D. M.__, Bals, S., & Batenburg, K. J. (2015). Electron tomography based on highly limited data using a neural network reconstruction technique. *Ultramicroscopy, 158*, 81-88.
 
-__Pelt, D. M.__, & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipartitioning of sparse matrices. In *Parallel and Distributed Processing Symposium, 2014 IEEE 28th International* (pp. 529--539).
+__Pelt, D. M.__, & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipartitioning of sparse matrices. In *Parallel and Distributed Processing Symposium, 2014 IEEE 28th International* (pp. 529-539).
 
 __Pelt, D. M.__, & Batenburg, K. J. (2013). Fast tomographic reconstruction from limited data using artificial neural networks. *IEEE Transactions on Image Processing, 22*(12), 5238--5251.
       
@@ -96,11 +96,14 @@ Nature Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Tr
 
 ### Working visits
 
-06/2015, Advanced Photon Source, Argonne National Laboratory, Argonne, Illinois, USA. Five weeks.
+`06/2015`
+Advanced Photon Source, Argonne National Laboratory, Argonne, Illinois, USA. Five weeks.
 
-03/2014, Swiss Light Source, Paul Sherrer Institute, Villigen, Switzerland. Two weeks.
+`03/2014`
+Swiss Light Source, Paul Sherrer Institute, Villigen, Switzerland. Two weeks.
 
-05/2013, European Synchrotron Radiation Facility, Grenoble, France. Two weeks.
+`05/2013`
+European Synchrotron Radiation Facility, Grenoble, France. Two weeks.
 
 
 <!-- ### Footer
